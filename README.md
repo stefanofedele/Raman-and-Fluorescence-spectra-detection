@@ -1,0 +1,2 @@
+# Raman-and-Fluorescence-spectra-detection
+Raman and Fluorescence spectra can be acquired by Andor CCD camera as a matrix of pixel (512x514). Spectrum is contained in a line of focus that should be horizontal, if it exhibit a little tilt, then an average over a wide range of different lines is required. In this project I used Pandas DataFrame and Matplotlib Python Packages to properly plot a set of different spectra. At the end of the job it save all the necessary data in an excel file
